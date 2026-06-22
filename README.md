@@ -19,7 +19,6 @@ This repository contains the implementation of a Master's thesis investigating d
 ---
 
 ## Problem Statement
-
 Gpixel NV, a CMOS image sensor manufacturer, faces a critical challenge: new sensor products often have fewer than ten real labelled examples per defect class, yet waiting months to accumulate data is operationally impractical.
 
 This thesis investigates whether **domain-informed synthetic data augmentation** can overcome this constraint by:
@@ -370,7 +369,7 @@ This work is released under the **MIT License** for research and educational pur
 ## Contact & Attribution
 
 **Thesis Author:** Nuthi Raviteja Pediredla  
-**Email:** [Your email if applicable]  
+**Email:** ravitj.pn@gmail.com 
 **Institution:** Data Science Institute, Hasselt University  
 
 **Supervisors:**
@@ -408,4 +407,4 @@ If you use this work in research, please cite:
 ---
 
 **Last Updated:** June 2026  
-**Status:** Thesis Defence Complete ✅
+
